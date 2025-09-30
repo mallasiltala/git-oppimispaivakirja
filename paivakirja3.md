@@ -1,17 +1,26 @@
 # Oppimispäiväkirja: Git projektissa
 
-__Mitä hyötyä voisi olla versionhallinnasta, jos kehität projektia yksin?__
+**Mitä hyötyä voisi olla versionhallinnasta, jos kehität projektia yksin?**
 
-Kirjoita tähän vastauksesi
+Versionhallinta auttaa seuraamaan kaikkia tekemiäni muutoksia, joten voin palata helposti vanhempiin versioihin, jos teen virheen. Se myös selkeyttää työn etenemistä
 
-__Mitä hyötyä voisi olla versionhallinnasta, jos projektissa on useita kehittäjiä?__
+**Mitä hyötyä voisi olla versionhallinnasta, jos projektissa on useita kehittäjiä?**
 
-Kirjoita tähän vastauksesi
+Useiden kehittäjien kanssa versionhallinta mahdollistaa muutosten yhdistämisen hallitusti, estää päällekkäiset työt ja konfliktit, sekä tarjoaa selkeän historian siitä, kuka teki mitä ja milloin
 
-__Miten järjestäisit projektitiimin versionhallinnan 3-4 hengen ohjelmistoprojektikurssilla? Laadi tiimiläisille lyhyt ohje, miten projektissa toimitaan.__
+**Miten järjestäisit projektitiimin versionhallinnan 3-4 hengen ohjelmistoprojektikurssilla? Laadi tiimiläisille lyhyt ohje, miten projektissa toimitaan.**
 
-Kirjoita tähän vastauksesi
+-Kaikilla on oma kehityshaara ('develop')
 
-__Kommenttini opintojaksosta, esim. sisällöstä, materiaalista, työmäärästä, hyödyllisyydestä, työmäärästä. Mitä toivoisit olevan enemmän, mitä vähemmän?__
+-Päähaara ('master') sisältää vain testatun ja valmiin version
 
-Kirjoita tähän vastauksesi
+-Ennen haarojen yhdistämistä kaikki hakee uusimmat muutokset etärepositoriosta
+
+-Selkeät commit-viestit
+
+-Konfliktit ratkaistaan tiimin kanssa yhdessä ja tehdään merge kun kaikki on testattu.
+
+**Kommenttini opintojaksosta, esim. sisällöstä, materiaalista, työmäärästä, hyödyllisyydestä, työmäärästä. Mitä toivoisit olevan enemmän, mitä vähemmän?**
+
+Opintojakso on ollut hyödyllinen, sillä se opetti gitin perusteet, haarojen käytön ja versionhallinnan hyödyt käytännössä. Materiaali oli selkeää ja harjoitukset auttoivat oppimaan tekemällä. Työmäärä on ollut sopiva mutta joissain kohdissa ohjeet voisivat olla vielä konkreettisempia.
+
