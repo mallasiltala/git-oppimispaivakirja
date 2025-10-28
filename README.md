@@ -17,7 +17,8 @@ Mitä opin?
 - Opin että voin lisätä ja poistaa tiedostoja komentokehotteessa
 - Jos tuli ongelmia jotka ei selvinneet oppimateriaalista, pyysin tekoälyä selittämään ne minulle yksinkertaisesti ja taas pystyin jatkamaan
 - Opin että on olemassa haaroja, kuinka ne eroavat toisistaan ja niitä voi yhdistää
-## Osiossa käyttämäni Git-komennot
+
+### Osiossa käyttämäni Git-komennot
 
 | Komento | Kuvaus |
 | --------| ------ |
@@ -26,8 +27,6 @@ Mitä opin?
 
 ## Päiväkirja 2
 
-# Oppimispäiväkirja 2
-
 Tässä osiossa opin:
 - Haarojen välillä vaihtamisen (checkout)
 - Miten tehdä commit eri haaroihin
@@ -35,7 +34,7 @@ Tässä osiossa opin:
 - Selvitin esteet jälleen googlettamalla ja tekoälyn avulla
 
 
-## Osiossa käyttämäni Git-komennot
+### Osiossa käyttämäni Git-komennot
 
 | Komento | Kuvaus |
 | --------| ------ |
