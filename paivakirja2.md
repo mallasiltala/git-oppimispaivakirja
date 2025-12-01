@@ -5,7 +5,7 @@ __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppi
 # Oppimispäiväkirja 2
 
 ## Mitä opin?
-- Opin siirtymään git checkout komenolla haarojen välillä, sekä ymmärsin miten paikallinen ja etärepositorio liittyvät toisiinsa
+- Opin siirtymään git checkout -komennolla haarojen välillä, sekä ymmärsin miten paikallinen ja etärepositorio liittyvät toisiinsa
 - Opin tekemään committeja eri haaroihin
 - Harjoittelin haarojen yhdistämistä git merge -komennolla ja opin, missä tilanteissa haarat kannattaa yhdistää oletushaaraan
 - Opin kloonaamaan projektin GitHubista itselleni ja viemään myös oman projektin GitHubiin
@@ -31,8 +31,8 @@ __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppi
 | cd | siirtyy haluttuun kansioon |
 | git checkout| siirtyy haluttuun haaraan|
 | git add | lisää tiedoston Git-hallintaan |
-| git commit | Tallentaa muutokset versionhallintaan |
+| git commit | tallentaa muutokset versionhallintaan |
 | git push | työntää muutokset Git hubiin |
 | git merge origin/master | yhdistää etähaaran muutokset lukutilassa |
 | git fetch| hakee GitHubista uudet muutokset |
-| git status| Näyttää repositorion tilan |
+| git status| näyttää repositorion tilan |
