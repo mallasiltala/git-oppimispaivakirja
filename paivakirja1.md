@@ -24,12 +24,12 @@ __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppi
 
 | Komento | Kuvaus |
 | --------| ------ |
-| git log | tnäyttää commit-historian |
+| git log | näyttää commit-historian |
 | git status | kertoo nykytilanteen |
 | dir | tarkistaa, mitä tiedostoja on kansiossa |
 | git add | lisää tiedoston Git-hallintaan|
 | git commit | tekee talletuksen |
-| git commit –m | talletutekee tallennuksen ilman editorin avaamista |
+| git commit –m | tekee tallennuksen ilman editorin avaamista |
 | git rm | poistaa tiedoston kansiosta ja versionhallinnasta |
 | git restore . | palauttaa kaikki kaikki muokatut tiedostot viimeisimpään committiin |
 | git revert head | kumoaa edellisen commitin |
